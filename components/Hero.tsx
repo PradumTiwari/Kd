@@ -57,7 +57,7 @@ const Hero = () => {
 
           {/*//mt-8 text-center text-lg font-medium text-gray-700 dark:text-gray-300*/}
           
-    <div className="z-10  absolute -bottom-32 text-center text-sm font-light text-gray-700 dark:text-gray-300 md:-bottom-36">
+    <div className="z-10 border absolute -bottom-32 text-center text-sm font-light text-gray-700 dark:text-gray-300 md:-bottom-36">
   <TypewriterEffectSmoothDemo />
 </div>
 
