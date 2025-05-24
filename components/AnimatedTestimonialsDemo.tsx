@@ -7,7 +7,7 @@ export function AnimatedTestimonialsDemo() {
         "Made The Buisness",
       name: " Shree Devnath Shah",
       designation: "Owner",
-      src: "https://github.com/PradumTiwari/Kd/blob/master/Assets/WhatsApp%20Image%202025-05-24%20at%2019.07.53_dc54e555.jpg?raw=true",
+      src: "https://github.com/PradumTiwari/Kd/blob/master/Assets/WhatsApp%20Image%202025-05-24%20at%2019.07.53_dc54e555.jpg?raw=true", 
     },{
       quote:
         "Has Worked On The Buisness",
