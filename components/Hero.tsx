@@ -3,8 +3,8 @@ import React from 'react'
 import { BackgroundBeamsWithCollision } from './ui/background-beams-with-collision.tsx';
 import { SparklesCore } from './ui/sparkles.tsx';
 import { cn } from "@/lib/utils";
-import { TypewriterEffect } from './ui/typewriter-effect.jsx';
-import { TypewriterEffectSmoothDemo } from './ui/typewritterEffectSmoothDemo.tsx';
+import { TypewriterEffect } from './ui/typewriter-effect';
+import { TypewriterEffectSmoothDemo } from './ui/typewritterEffectSmoothDemo';
 import Contact from './contact.tsx';
 
 const Hero = () => {
@@ -57,7 +57,7 @@ const Hero = () => {
 
           {/*//mt-8 text-center text-lg font-medium text-gray-700 dark:text-gray-300*/}
           
-    <div className="z-10 border absolute -bottom-32 text-center text-sm font-light text-gray-700 dark:text-gray-300 md:-bottom-36">
+    <div className="z-10  absolute -bottom-32 text-center text-sm font-light text-gray-700 dark:text-gray-300 md:-bottom-36">
   <TypewriterEffectSmoothDemo />
 </div>
 
